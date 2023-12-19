@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-
+# this code from different user from stepik
 try:
     link = "http://suninjuly.github.io/registration2.html"
     browser = webdriver.Chrome()
