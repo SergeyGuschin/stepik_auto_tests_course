@@ -12,7 +12,7 @@ try:
     browser.get(link)
     browser.find_element(By.ID, "button")
 
-
+# test test test
 finally:
     # успеваем скопировать код за 30 секунд
     time.sleep(3)
